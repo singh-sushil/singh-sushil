@@ -3,7 +3,7 @@
 
 **Hello World!** <img src = "./hi.gif" width =25 height=25 ><br>
 
-Sashi Here :simple_smile:<br>
+Sashi Here :mask:<br>
 :computer: C/C++ programmer<br>
 :mortar_board: Paschimanchal Campus(IOE)<br>
 :e-mail: dream.code.100@gmail.com<br>
