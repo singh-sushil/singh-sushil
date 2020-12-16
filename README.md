@@ -1,4 +1,4 @@
-<img src="./gify.svg" width=250px  align="left">
+<img src="./code.gif" width=250px  align="left">
 
 
 **Hello World!** <img src = "./hi.gif" width =25 height=25 ><br>
