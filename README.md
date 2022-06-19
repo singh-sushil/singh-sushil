@@ -10,5 +10,5 @@ Sashi Here :mask:<br>
 :link: singhsushil.com.np<br>
 
 **Connect with me via:**<br>
-[<img src="./index.png" width=40 height = "40">](https://www.linkedin.com/in/singh-sushil-376851178/)
+[<img src="./index.png" width=40 height = "40">](https://www.linkedin.com/in/sushil-singh-376851178/)
 
