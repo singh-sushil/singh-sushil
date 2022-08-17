@@ -7,7 +7,7 @@ Sashi Here :mask:<br>
 :computer: C/C++ programmer<br>
 :mortar_board: Paschimanchal Campus(IOE)<br>
 :e-mail: dream.code.100@gmail.com<br>
-:link: singhsushil.com.np<br>
+:link: https://sushilsingh.com.np<br>
 
 **Connect with me via:**<br>
 [<img src="./index.png" width=40 height = "40">](https://www.linkedin.com/in/sushil-singh-376851178/)
