@@ -4,7 +4,7 @@
 **Hello World!** <img src = "./hi.gif" width =25 height=25 ><br>
 
 Sashi Here :mask:<br>
-:computer: C/C++ programmer<br>
+:computer: C/C++  and .NET programmer<br>
 :mortar_board: Paschimanchal Campus(IOE)<br>
 :e-mail: dream.code.100@gmail.com<br>
 :link: https://sushilsingh.com.np<br>
